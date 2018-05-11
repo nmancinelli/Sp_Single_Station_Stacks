@@ -1,2 +1,4 @@
 *.ndk
 *.eps
+.ipynb_checkpoints/
+__pycache__/
